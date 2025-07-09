@@ -2,8 +2,6 @@
 
 This project is a hands-on implementation of Apple’s official [SwiftUI Tutorial](https://developer.apple.com/tutorials/swiftui), specifically the **SwiftUI Essentials** section.
 
-📦 GitHub Repo: [Landmarks-Swift-Official-Tutorial](https://github.com/sandeepjak2007/Landmarks-Swift-Official-Tutorial)
-
 ---
 
 ## 📱 Overview
